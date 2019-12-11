@@ -8,6 +8,9 @@ class Viewer:
 
     def history(self):
         info = self.tulips.history()
+        if len(info):
+            print("現在借りている本はありません。")
+            return
         for i in info:
             print("- 「{}」: {}".format(i["title"], i["貸出日"]))
 
