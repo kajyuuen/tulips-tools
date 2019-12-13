@@ -1,8 +1,12 @@
 # Tulips tools
 
+[klis Advent Calendar 2019](https://adventar.org/calendars/4206) 24日目のネタです。
+
 ## How to use
 
 ### Slack Botとして使う
+
+![](https://user-images.githubusercontent.com/15792784/70805441-441df700-1dfc-11ea-8aaf-c5c55e516211.png)
 
 ```
 python tulips-tools/slack-bot.py
