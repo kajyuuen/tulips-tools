@@ -2,7 +2,7 @@
 
 ## How to use
 
-## Slack Botとして使う
+### Slack Botとして使う
 
 ```
 python tulips-tools/slack-bot.py
