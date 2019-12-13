@@ -5,7 +5,7 @@
 ## Slack Botとして使う
 
 ```
-python tulips-tools/cli.py config set -u <ユーザ名> -p <パスワード>
+python tulips-tools/slack-bot.py
 ```
 
 ### CLIとして使う
