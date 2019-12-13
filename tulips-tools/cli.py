@@ -1,7 +1,7 @@
 import argparse
 
 from utils.config import save_config, load_config
-from viewer import Viewer
+from utils.viewer import Viewer
 
 def main():
     parser = argparse.ArgumentParser(

@@ -2,10 +2,10 @@
 
 ## How to use
 
-## Install
+## Slack Botとして使う
 
 ```
-pip install tulips
+python tulips-tools/cli.py config set -u <ユーザ名> -p <パスワード>
 ```
 
 ### CLIとして使う

@@ -11,7 +11,6 @@ def save_config(name, password):
     os.chmod(PATH, 0o700)
 
 def load_config():
-
     with open(PATH) as f:
         l = f.readlines()
         name = l[0].rstrip()
